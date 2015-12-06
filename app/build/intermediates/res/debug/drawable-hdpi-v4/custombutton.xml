@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:state_pressed="true" android:drawable="@drawable/buttonselected"></item>
+	<item android:state_focused="true" android:drawable="@drawable/buttonhiglighted"></item>
+	
+	<item android:drawable="@drawable/buttonnormal" ></item>
+</selector>
+<!-- From: file:/C:/Users/defoliate/AndroidstudioProjects/LearningNewBoston/app/src/main/res/drawable-hdpi/custombutton.xml -->

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\defoliate\\AndroidStudioProjects\\LearningNewBoston\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\buttonhiglighted.png",
+        "source": "C:\\Users\\defoliate\\AndroidStudioProjects\\LearningNewBoston\\app\\src\\main\\res\\drawable-hdpi\\buttonhiglighted.png"
+    },
+    {
+        "merged": "C:\\Users\\defoliate\\AndroidStudioProjects\\LearningNewBoston\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pokeball.png",
+        "source": "C:\\Users\\defoliate\\AndroidStudioProjects\\LearningNewBoston\\app\\src\\main\\res\\drawable-hdpi\\pokeball.png"
+    },
+    {
+        "merged": "C:\\Users\\defoliate\\AndroidStudioProjects\\LearningNewBoston\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\defoliate\\AndroidStudioProjects\\LearningNewBoston\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\defoliate\\AndroidStudioProjects\\LearningNewBoston\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\buttonnormal.png",
+        "source": "C:\\Users\\defoliate\\AndroidStudioProjects\\LearningNewBoston\\app\\src\\main\\res\\drawable-hdpi\\buttonnormal.png"
+    },
+    {
+        "merged": "C:\\Users\\defoliate\\AndroidStudioProjects\\LearningNewBoston\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\buttonselected.png",
+        "source": "C:\\Users\\defoliate\\AndroidStudioProjects\\LearningNewBoston\\app\\src\\main\\res\\drawable-hdpi\\buttonselected.png"
+    },
+    {
+        "merged": "C:\\Users\\defoliate\\AndroidStudioProjects\\LearningNewBoston\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\custombutton.xml",
+        "source": "C:\\Users\\defoliate\\AndroidStudioProjects\\LearningNewBoston\\app\\src\\main\\res\\drawable-hdpi\\custombutton.xml"
+    }
+]

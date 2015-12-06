@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.defoliate.learnnewboston"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.SET_WALLPAPER" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.defoliate.learnnewboston.Splash"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.defoliate.learnnewboston.Starting"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.defoliate.learnnewboston.STARTING" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.defoliate.learnnewboston.Menu"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.defoliate.learnnewboston.MENU" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.defoliate.learnnewboston.Text"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.defoliate.learnnewboston.Email"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.defoliate.learnnewboston.Camera"
+            android:label="Camera Application"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.defoliate.learnnewboston.Data"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.defoliate.learnnewboston.OpenedClass"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.defoliate.learnnewboston.AboutUs"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Dialog" >
+            <intent-filter>
+                <action android:name="com.defoliate.learnnewboston.ABOUTUS" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.defoliate.learnnewboston.Prefs"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Dialog" >
+            <intent-filter>
+                <action android:name="com.defoliate.learnnewboston.PREFS" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.defoliate.learnnewboston.GFX"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.defoliate.learnnewboston.GFXSurface"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.defoliate.learnnewboston.SoundStuff"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.defoliate.learnnewboston.Slider"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.defoliate.learnnewboston.Tabs"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.defoliate.learnnewboston.SimpleBrowser"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.defoliate.learnnewboston.Flipper"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.defoliate.learnnewboston.SharePrefs"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.defoliate.learnnewboston.ExternalData"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.defoliate.learnnewboston.InternalData"
+            android:label="@string/app_name" >
+        </activity>
+    </application>
+
+</manifest>

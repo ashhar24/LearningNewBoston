@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\defoliate\\AndroidStudioProjects\\LearningNewBoston\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\defoliate\\AndroidStudioProjects\\LearningNewBoston\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\defoliate\\AndroidStudioProjects\\LearningNewBoston\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tabs.xml",
+        "source": "C:\\Users\\defoliate\\AndroidStudioProjects\\LearningNewBoston\\app\\src\\main\\res\\layout\\tabs.xml"
+    },
+    {
+        "merged": "C:\\Users\\defoliate\\AndroidStudioProjects\\LearningNewBoston\\app\\build\\intermediates\\res\\merged\\debug\\layout\\send.xml",
+        "source": "C:\\Users\\defoliate\\AndroidStudioProjects\\LearningNewBoston\\app\\src\\main\\res\\layout\\send.xml"
+    },
+    {
+        "merged": "C:\\Users\\defoliate\\AndroidStudioProjects\\LearningNewBoston\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about.xml",
+        "source": "C:\\Users\\defoliate\\AndroidStudioProjects\\LearningNewBoston\\app\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "C:\\Users\\defoliate\\AndroidStudioProjects\\LearningNewBoston\\app\\build\\intermediates\\res\\merged\\debug\\layout\\photo.xml",
+        "source": "C:\\Users\\defoliate\\AndroidStudioProjects\\LearningNewBoston\\app\\src\\main\\res\\layout\\photo.xml"
+    },
+    {
+        "merged": "C:\\Users\\defoliate\\AndroidStudioProjects\\LearningNewBoston\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash.xml",
+        "source": "C:\\Users\\defoliate\\AndroidStudioProjects\\LearningNewBoston\\app\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\defoliate\\AndroidStudioProjects\\LearningNewBoston\\app\\build\\intermediates\\res\\merged\\debug\\layout\\slider.xml",
+        "source": "C:\\Users\\defoliate\\AndroidStudioProjects\\LearningNewBoston\\app\\src\\main\\res\\layout\\slider.xml"
+    },
+    {
+        "merged": "C:\\Users\\defoliate\\AndroidStudioProjects\\LearningNewBoston\\app\\build\\intermediates\\res\\merged\\debug\\layout\\flipper.xml",
+        "source": "C:\\Users\\defoliate\\AndroidStudioProjects\\LearningNewBoston\\app\\src\\main\\res\\layout\\flipper.xml"
+    },
+    {
+        "merged": "C:\\Users\\defoliate\\AndroidStudioProjects\\LearningNewBoston\\app\\build\\intermediates\\res\\merged\\debug\\layout\\externaldata.xml",
+        "source": "C:\\Users\\defoliate\\AndroidStudioProjects\\LearningNewBoston\\app\\src\\main\\res\\layout\\externaldata.xml"
+    },
+    {
+        "merged": "C:\\Users\\defoliate\\AndroidStudioProjects\\LearningNewBoston\\app\\build\\intermediates\\res\\merged\\debug\\layout\\get.xml",
+        "source": "C:\\Users\\defoliate\\AndroidStudioProjects\\LearningNewBoston\\app\\src\\main\\res\\layout\\get.xml"
+    },
+    {
+        "merged": "C:\\Users\\defoliate\\AndroidStudioProjects\\LearningNewBoston\\app\\build\\intermediates\\res\\merged\\debug\\layout\\simplebrowser.xml",
+        "source": "C:\\Users\\defoliate\\AndroidStudioProjects\\LearningNewBoston\\app\\src\\main\\res\\layout\\simplebrowser.xml"
+    },
+    {
+        "merged": "C:\\Users\\defoliate\\AndroidStudioProjects\\LearningNewBoston\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sharedprefs.xml",
+        "source": "C:\\Users\\defoliate\\AndroidStudioProjects\\LearningNewBoston\\app\\src\\main\\res\\layout\\sharedprefs.xml"
+    },
+    {
+        "merged": "C:\\Users\\defoliate\\AndroidStudioProjects\\LearningNewBoston\\app\\build\\intermediates\\res\\merged\\debug\\layout\\email.xml",
+        "source": "C:\\Users\\defoliate\\AndroidStudioProjects\\LearningNewBoston\\app\\src\\main\\res\\layout\\email.xml"
+    },
+    {
+        "merged": "C:\\Users\\defoliate\\AndroidStudioProjects\\LearningNewBoston\\app\\build\\intermediates\\res\\merged\\debug\\layout\\text.xml",
+        "source": "C:\\Users\\defoliate\\AndroidStudioProjects\\LearningNewBoston\\app\\src\\main\\res\\layout\\text.xml"
+    }
+]
